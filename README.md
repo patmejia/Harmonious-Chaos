@@ -1,5 +1,7 @@
 # Harmonious Chaos
 
+<audio controls src="audio/The_Bridge_of_Words.mp3" title="Title"></audio>
+
 ## Overview
 This project delves into the significant influence of dance and art on human connection and well-being, showcased through two distinct mixed-media art pieces: "Dance of the Universe" and "Chaotic Symphony."
 
