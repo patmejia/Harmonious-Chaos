@@ -6,7 +6,7 @@ This project delves into the significant influence of dance and art on human con
 ## Dance of the Universe
 "Dance of the Universe" embodies inclusivity, diversity, and the therapeutic nature of dance. It features dancers of various ethnicities, cultures, genders, and abilities, including those with disabilities, all depicted in synchronized, flowing motion. This piece integrates natural elements, scientific symbols, and vivid abstract shapes.
 
-![Dance of the Universe 3](<images/DALL·E 2024-06-01 11.08.09 - A high-quality image of a mixed-media art piece titled 'Dance of the Universe,' capturing the essence of inclusivity, diversity, and the healing power.webp>)
+
 
 ### Dance of the Universe Series
 1. ![Dance of the Universe 1](<images/DALL·E 2024-06-01 11.02.39 - A high-quality image of a mixed-media art piece titled 'Dance of the Universe,' showcasing diverse dancers from various backgrounds, cultures, and gen.webp>)
